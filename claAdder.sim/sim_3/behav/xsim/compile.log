@@ -1,0 +1,28 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/CLA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CLA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/UAL.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity UAL
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/UAL16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity UAL16
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/fullAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fullAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/zcb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bcdDisplay
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/zcb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bcdDisplay
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_3/new/final_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test

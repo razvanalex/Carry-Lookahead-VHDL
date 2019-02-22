@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../claAdder.srcs/sim_4_cla_lab/imports/new/cla_test.vhd" \
+
+# Do not sort compile order
+nosort

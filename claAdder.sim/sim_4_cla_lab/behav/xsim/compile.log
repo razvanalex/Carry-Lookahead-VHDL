@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sources_1/new/cla4bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cla4bits
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student1/Desktop/Tema/claAdder/claAdder.srcs/sim_4_cla_lab/imports/new/cla_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/razvan/Elements1/Facultate/CN/Tema/claAdder/claAdder.srcs/sim_4_cla_lab/imports/new/cla_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_test

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Mar 19 18:50:58 2018
+# Process ID: 5278
+# Current directory: /home/student1/Desktop/Tema/claAdder/claAdder.sim/sim_3/behav/xsim
+# Command line: wbtcv -mode batch -source /home/student1/Desktop/Tema/claAdder/claAdder.sim/sim_3/behav/xsim/xsim.dir/final_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/student1/Desktop/Tema/claAdder/claAdder.sim/sim_3/behav/xsim/webtalk.log
+# Journal file: /home/student1/Desktop/Tema/claAdder/claAdder.sim/sim_3/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/student1/Desktop/Tema/claAdder/claAdder.sim/sim_3/behav/xsim/xsim.dir/final_test_behav/webtalk/xsim_webtalk.tcl -notrace

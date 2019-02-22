@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../claAdder.srcs/sources_1/new/CLA.vhd" \
+"../../../../claAdder.srcs/sources_1/new/UAL.vhd" \
+"../../../../claAdder.srcs/sources_1/new/UAL16.vhd" \
+"../../../../claAdder.srcs/sources_1/new/fullAdder.vhd" \
+"../../../../claAdder.srcs/sim_2/new/UAL16_tbw.vhd" \
+
+# Do not sort compile order
+nosort
